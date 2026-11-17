@@ -20,7 +20,7 @@
 
 一个把自己真实的一天映射成像素生活的小游戏：午休是躺吊床，开会是去村口，喝水「大水理论」和上厕所也对应自己的行为。希望逐渐补上记录与提醒、会议期间的心率变化，以及工资到账后麦子成熟、自己收获的体验。当前公开版为手动操作与模拟事件原型，尚未接入 Apple Watch、飞书或真实薪资数据。
 
-**[下载即玩 · v0.7.0](https://github.com/josephinexyy/aini-laoji/releases/download/v0.7.0/aini-laoji-v7.html)** · [玩法与介绍](https://github.com/josephinexyy/aini-laoji#readme) · [提建议](https://github.com/josephinexyy/aini-laoji/issues/new/choose)
+**[下载即玩 · v0.8.0](https://github.com/josephinexyy/aini-laoji/releases/download/v0.8.0/aini-laoji-v8.html)** · [玩法与介绍](https://github.com/josephinexyy/aini-laoji#readme) · [提建议](https://github.com/josephinexyy/aini-laoji/issues/new/choose)
 
 下载 HTML 后用 Chrome 打开即可。还在边玩边改，欢迎试玩、提建议和帮忙捉虫。
 
