@@ -19,7 +19,7 @@
 给个人工作室、自由职业者和小老板整理客户、开单与收款，尤其关注香港小生意。支持港币／美元、三语界面、PDF 导出和备份恢复。[看产品案例](https://github.com/josephinexyy/product-portfolio/blob/main/cases/local-billing-workspace.md)
 
 **爱你老己 · 像素小院**  
-现实中的你，和小院里的你，相互照顾。你在现实中上班，日常映射成小人的生活；你照顾他，也通过他看见、照顾自己。当前为手动交互原型，尚未接入 Apple Watch 或飞书。[看玩法与设计](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md)
+从“看见自己”出发，把自己的一天具象化成小院生活。通过小人的日常，看见自己怎样度过一天，也记得照顾其中的自己。当前为手动交互原型，尚未接入 Apple Watch 或飞书。[看玩法与设计](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md)
 
 我负责需求、业务规则、流程与体验设计，使用 AI 辅助实现，再根据使用反馈慢慢修改。[完整作品集与迭代记录](https://github.com/josephinexyy/product-portfolio)
 
