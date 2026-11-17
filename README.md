@@ -12,7 +12,7 @@
 [在线使用](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/) · [虚构演示](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/?demo=1) · [下载](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/Billing-Workspace-v0.2.0.zip) · [产品案例](https://github.com/josephinexyy/product-portfolio/blob/main/cases/local-billing-workspace.md)
 
 **爱你老己 · 像素小院**  
-无聊时可以待一会儿的小游戏：午休躺吊床，开会去村口，喝水和上厕所对应自己的日常。当前为手动交互原型，尚未接入 Apple Watch 或飞书。
+现实中的你，和小院里的你，相互照顾。你在现实中上班，日常映射成小人的生活；你照顾他，也通过他看见、照顾自己。当前为手动交互原型，尚未接入 Apple Watch 或飞书。
 
 [在线玩](https://aini-laoji-garden-v7.coral-ox-0471.chatgpt.site/) · [下载](https://aini-laoji-garden-v7.coral-ox-0471.chatgpt.site/downloads/aini-laoji-v0.8.0.zip) · [玩法与设计](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md)
 
