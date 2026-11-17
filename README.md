@@ -18,7 +18,7 @@
 
 **[爱你老己｜像素小院](https://github.com/josephinexyy/aini-laoji)**
 
-一个无聊时可以随手玩一会儿的像素小游戏。拖着小人去村口开会、喝水「大水理论」、躺吊床，把今天的小事种进菜园；什么也不想做时，就看看小人和猫自己散步。
+一个把自己真实的一天映射成像素生活的小游戏：午休是躺吊床，开会是去村口，喝水「大水理论」和上厕所也对应自己的行为。希望逐渐补上记录与提醒、会议期间的心率变化，以及工资到账后麦子成熟、自己收获的体验。当前公开版为手动操作与模拟事件原型，尚未接入 Apple Watch、飞书或真实薪资数据。
 
 **[下载即玩 · v0.7.0](https://github.com/josephinexyy/aini-laoji/releases/download/v0.7.0/aini-laoji-v7.html)** · [玩法与介绍](https://github.com/josephinexyy/aini-laoji#readme) · [提建议](https://github.com/josephinexyy/aini-laoji/issues/new/choose)
 
