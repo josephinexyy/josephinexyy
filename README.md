@@ -6,7 +6,7 @@
 
 给个人工作室和做小生意的人用。我在香港处理业务时，最想一眼看清的是：这笔钱收到了吗？给客户的单据开了吗？工作台把客户、金额、收款状态和单据放在同一笔业务里，港币和美元分开记。
 
-**[体验演示账本](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/?demo=1)** · [打开自己的账本](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/) · [下载离线版](https://josie-billing-workspace.coral-ox-0471.chatgpt.site/Billing-Workspace-v0.2.0.zip) · [看设计与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/local-billing-workspace.md)
+**[体验演示账本](https://josephinexyy.github.io/product-portfolio/billing/?demo=1)** · [打开自己的账本](https://josephinexyy.github.io/product-portfolio/billing/) · [下载离线版](https://josephinexyy.github.io/product-portfolio/billing/Billing-Workspace-v0.2.0.zip) · [看设计与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/local-billing-workspace.md)
 
 ## 爱你老己 · 像素小院
 
