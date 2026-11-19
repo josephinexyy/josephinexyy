@@ -21,8 +21,8 @@
 我想把每天一些细小的事情可视化，这样一天下来看看虚拟小人也许会有直观的感觉：
 开会，小人就去村口开会；我午休，他也躺进吊床。忙到下午，看一眼小院，也会想起自己今天喝过几次水。现在可以手动记录，也可以在心愿墙上留一句“今天不许加班了！！！！！”。
 
-现在可以点空地种花，等花开了再收进篮子。v0.17.0 给小人换了短发、金色发夹和砖红围巾，也把院里的待办台移走了。待办可以从侧栏打开。
+现在我可以只种一朵花。等它开了，就剪一枝茉莉插在床头。回家以后，我可以写几句日记，也可以直接上床，看小猫跳到旁边那只枕头上。
 
-**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.17.0](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.17.0.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md)
+**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.18.0](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.18.0.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md)
 
 两个作品的需求、流程和体验由我设计，使用 AI 辅助实现。[查看作品集](https://github.com/josephinexyy/product-portfolio) · [反馈问题或建议](https://github.com/josephinexyy/product-portfolio/issues/new/choose)
