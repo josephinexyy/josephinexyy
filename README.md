@@ -25,6 +25,8 @@
 
 最近把小屋的后墙换成浅灰绿，地面铺上了暖木色的地板。准备睡觉、屋里暗下来以后，也还是看得清墙脚。
 
-**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.25.0](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.25.0.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md) · [更新历史](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji-changelog.md)
+现在也可以给小院留张照片。进屋翻翻书架，就能看见这几天写下的几句话和留下的画面。
+
+**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.28.0](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.28.0.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md) · [更新历史](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji-changelog.md)
 
 两个作品的需求、流程和体验由我设计，使用 AI 辅助实现。[查看作品集](https://github.com/josephinexyy/product-portfolio) · [反馈问题或建议](https://github.com/josephinexyy/product-portfolio/issues/new/choose)
