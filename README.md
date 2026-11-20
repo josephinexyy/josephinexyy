@@ -23,6 +23,8 @@
 
 现在我可以只种一朵花。等它开了，就剪一枝茉莉插在床头。回家以后，我可以写几句日记，也可以直接上床，看小猫跳到旁边那只枕头上。
 
-**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.19.2](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.19.2.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md) · [更新历史](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji-changelog.md)
+最近把小屋的后墙换成浅灰绿，地面铺上了暖木色的地板。准备睡觉、屋里暗下来以后，也还是看得清墙脚。
+
+**[进入小院](https://josephinexyy.github.io/product-portfolio/garden/)** · [下载离线版 v0.25.0](https://josephinexyy.github.io/product-portfolio/garden/aini-laoji-v0.25.0.zip) · [看玩法与迭代](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji.md) · [更新历史](https://github.com/josephinexyy/product-portfolio/blob/main/cases/aini-laoji-changelog.md)
 
 两个作品的需求、流程和体验由我设计，使用 AI 辅助实现。[查看作品集](https://github.com/josephinexyy/product-portfolio) · [反馈问题或建议](https://github.com/josephinexyy/product-portfolio/issues/new/choose)
